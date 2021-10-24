@@ -1,0 +1,21 @@
+Own game:-
+
+Aim:- Save Egg
+
+Story:- A hen just layed an egg and is protectiong her egg.
+ 	She had to go for bringing some food for her and when she got up one of her eggs just fall from the nest.
+	The nest was on a mountain and now the egg is just falling/rolling from the mountain!
+	The players got a chance to save the egg and land it safely to another nest of a bird
+	
+Difficulties/Obsticles:- rocks , tree branches 
+			Speed of the egg will increase after every 300score
+			
+Feedback:- Scores would be given acording to the playes performance
+Rules:- *The egg can jump , change sides(Move to right left)
+	*If the egg touches rocks/branches the egg will die and Game Over
+	*Only one life
+	*On helping the egg from not to broke/touch rocks or branches the more forward you go the more you socre.
+
+ Scoring:- FrameCount increase and Passing obsticles
+	Rocks:- 1
+	Branches:- 2
